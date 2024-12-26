@@ -1,6 +1,6 @@
 # DataCamp | Clustering Antarctic Penguin Species
 
-This project is part of the **Associate Data Scientist in Python** career track on DataCamp. 
+This project is part of the **Associate Data Scientist in Python** career track on DataCamp. To group the penguins, we use the K-means clustering method. Based on the scree plot, we determine that the optimal number of clusters (k) is 4, which also satisfies the condition that there are at least three species of penguins.
 
 ## Environment
 
